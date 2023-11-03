@@ -1,0 +1,66 @@
+{
+  "id": "my_slice",
+  "type": "SharedSlice",
+  "name": "MySlice",
+  "description": "MySlice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "profileimage": {
+          "type": "Image",
+          "config": {
+            "label": "ProfileImage",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {
+        "trest": {
+          "type": "Boolean",
+          "config": {
+            "label": "trest",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        }
+      }
+    },
+    {
+      "id": "rtaaas",
+      "name": "rtaaas",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "profileimage": {
+          "type": "Image",
+          "config": {
+            "label": "ProfileImage",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {
+        "trest": {
+          "type": "Boolean",
+          "config": {
+            "label": "trest",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        }
+      }
+    }
+  ]
+}

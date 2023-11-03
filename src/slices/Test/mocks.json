@@ -1,0 +1,34 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"dasd": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Laboris ullamco elit eiusmod cillum Lorem eiusmod nisi consequat sunt tempor. Minim aute esse qui occaecat nulla id consectetur amet est quis. Dolor tempor Lorem veniam ullamco."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"ddd",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "69",
+							"type": "Number"
+						}
+					]
+				]
+			}
+		]
+	}
+]
