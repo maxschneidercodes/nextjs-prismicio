@@ -7,8 +7,6 @@ import { PrismicNextImage } from "@prismicio/next";
  * @param {HeroWithImageProps}
  */
 const HeroWithImage = ({ slice }) => {
-  console.log(slice);
-
   return (
     <section
       data-slice-type={slice.slice_type}
